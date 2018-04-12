@@ -6,7 +6,7 @@ Author: Nestor N Torres
 
 ### Contact
 - Slack: @nanjuan on wcscusf.slack.com
-- [LinkedIn](https://www.linkedin.com/in/nestor-n-torres-737172a5/)
+- [LinkedIn](https://www.linkedin.com/in/nanjuan/)
 - Email: nestor@nntorres.com
 
 ### Table
